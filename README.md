@@ -1,7 +1,8 @@
 # hola2018
 Primer proyecto git del curso 2018
 
-**Tabla chula**
+## Tabla chula
+
 | Esto | que es? |
 | - | - |
 | Esto | es |
